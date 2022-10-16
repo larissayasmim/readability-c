@@ -9,10 +9,10 @@
   </h2>
   <h4 align="center">Developed with C programming language</h4>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/readability-c?color=black">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/readability-c?color=white">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=black">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/readability-c?color=white">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/readability-c?color=brown">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/readability-c?color=grey">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=brown">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/readability-c?color=grey">
 </p>
 <br>
 <br>
@@ -25,22 +25,16 @@ This input value called a key, which must be entered in the command line.</p>
 <br>
 
 ## :gem: &nbsp;&nbsp; Features
-- Encrypt messages
-- Input the value on the command line
-- Request the plaintext (text to be encrypted)
-- Print the encrypted text (ciphertext)
+- Calculates the approximate level (represented from a grade, as in school) needed to understand some text
+- Prints "Grade X" output, where X is the calculated degree level
 <br>
 
-## :closed_lock_with_key: &nbsp; Print the encrypted text
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665781296/Caesar/caesar1_y9wydo.png"/>
+## :book: &nbsp; Printing text level
+<img height="auto" width="990" alt="Imprimindo a nível do texto" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665941506/readability/readability1_nfw2cr.png"/>
 <br>
 
-## :closed_lock_with_key: &nbsp; Invalid input value: no value or more than one value as key
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665781297/Caesar/caesar2_r6ntuk.png"/>
-<br>
-
-## :closed_lock_with_key: &nbsp; Execution
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665782288/Caesar/caesarvideo10_online-video-cutter.com_h4m1qs.gif"/>
+## :book: &nbsp; Execution
+<img  height="auto" width="990" alt="Imprimindo o nível do texto" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665941503/readability/readabilityvideo_online-video-cutter.com_nubqza.gif"/>
 <br>
 
 ## :computer:  &nbsp; Technologies

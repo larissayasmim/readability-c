@@ -18,8 +18,7 @@
 <br>
 
 ## :memo: &nbsp;&nbsp; Brief
-<p>The Caesar program consists of encrypted messages. To encrypt, it relies on displacement the letters according to the user's input value.
-This input value called a key, which must be entered in the command line.</p>
+<p>The Program calculates the approximate level needed to understand some text, according to the Coleman-Liau index readability test.<br> This test is designed to show what grade level (USA) is needed to understand a text. The formula is: index = 0.0588*L-0.296*S-15.8.<br> Here, L is the average number of letters per 100 words in the text and S is the average number of sentences per 100 words in the text.<br> As the average number of letters and words per sentence increases, the Coleman-Liau index gives the text a higher readability level.</p>
 
 
 <br>
